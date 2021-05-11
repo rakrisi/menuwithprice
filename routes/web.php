@@ -17,3 +17,8 @@ Route::get('/', function () {
     return view('welcome');
 });
 Route::view('/','front_end/index');
+Route::view('/about','front_end/about');
+Route::view('/contact','front_end/contact');
+Route::view('/privacy','front_end/privacy');
+Route::view('/term','front_end/term');
+

@@ -1,29 +1,47 @@
 @extends('layouts.main')
-<div class="header" style="background-color: gray;">
-<label for="mn-mbl" class="body_btn"></label>
-<label class="mnmbl-label" for="mn-mbl"><span></span><span></span><span></span></label>
-<div class="hd-bar" style="background-color: gray;" >
-<a class="logo" href="#">
-<img src="{{ asset('user/front_end/images/icon.png')}}" alt="Menu With Price">
-</a>
- </div>
-<div class="menu" style="background-color: gray;">
-<div class="menu_width">
-<a class="logo" href="index.htm">
-<img src="{{ asset('user/front_end/images/icon.png')}}" alt="Menu With Price">
-</a>
-<ul class="m-list">
-<li class="ml-home"><a href="index.htm" class="active" style="background-color: gray;">home</a></li>
-<li><a href="menu-and-price/index.htm" style="background-color: gray;">all menus</a></li>
-<li><a href="restaurant-near-me/index.htm" style="background-color: gray;">food near me</a></li>
-<li><a href="cuisine/index.htm" style="background-color: gray;">Cuisine</a></li>
-<li><a href="nutrition/index.htm" style="background-color: gray;">Nutrition</a></li>
-
-</ul>
+    <div class="header" style="background-color: gray;">
+        <label for="mn-mbl" class="body_btn"></label>
+            <label class="mnmbl-label" for="mn-mbl"></label>
+                <div class="hd-bar" style="background-color: gray;" >
+                    <a class="logo" href="/">
+                        <img src="{{ asset('user/front_end/images/icon.png')}}" alt="Menu With Price">
+                    </a>
+    </div>
+    <div class="menu" style="background-color: gray;">
+        <div class="menu_width">
+            <a class="logo" href="/">
+                <img src="{{ asset('user/front_end/images/icon.png')}}" alt="Menu With Price">
+            </a>
+            <ul class="m-list">
+                <li class="ml-home">
+                    <a href="/" class="active" style="background-color: gray;">
+                        home
+                    </a>
+                </li>
+                <li>
+                    <a href="menu-and-price/index.htm" style="background-color: gray;">
+                        all menus
+                    </a>
+                </li>
+                <li>
+                    <a href="restaurant-near-me/index.htm" style="background-color: gray;">
+                        food near me
+                    </a>
+                </li>
+                <li>
+                    <a href="cuisine/index.htm" style="background-color: gray;">
+                        Cuisine
+                    </a>
+                </li>
+                <li>
+                    <a href="nutrition/index.htm" style="background-color: gray;">
+                        Nutrition
+                    </a>
+                </li>
+            </ul>
+        </div>
+    </div>
 </div>
-</div>
-</div>
-
 <div class="index-top">
     <div class="slide"> 
         <ul class="s-list">
