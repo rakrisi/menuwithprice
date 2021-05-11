@@ -155,7 +155,7 @@
 </div>
 <ul class="menu-list category-menu">
     <li>
-        <a href="../menu/aandw/index.htm" style="border:1px solid blue;text-align: center;">
+        <a href="../menu/aandw/" style="border:1px solid blue;text-align: center;">
             A&W Restaurant
         </a>
     </li> 
