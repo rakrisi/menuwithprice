@@ -19,22 +19,22 @@
                     </a>
                 </li>
                 <li>
-                    <a href="menu-and-price/index.htm" style="background-color: gray;">
+                    <a href="menu-and-price/" style="background-color: gray;">
                         all menus
                     </a>
                 </li>
                 <li>
-                    <a href="restaurant-near-me/index.htm" style="background-color: gray;">
+                    <a href="restaurant-near-me/" style="background-color: gray;">
                         food near me
                     </a>
                 </li>
                 <li>
-                    <a href="cuisine/index.htm" style="background-color: gray;">
+                    <a href="cuisine/" style="background-color: gray;">
                         Cuisine
                     </a>
                 </li>
                 <li>
-                    <a href="nutrition/index.htm" style="background-color: gray;">
+                    <a href="nutrition/" style="background-color: gray;">
                         Nutrition
                     </a>
                 </li>
