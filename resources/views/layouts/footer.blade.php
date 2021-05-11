@@ -1,7 +1,7 @@
 <div class="footer">
 <div class="ft-inner" style="letter-spacing: 5px;text-align: center;">
 <h2>General Information</h2>
-<a href="#">About Us |</a>
+<a href="/about">About Us |</a>
 <a href="#">Contact Us |</a>
 <a href="#">Privacy Policy |</a>
 <a href="#">Terms of Use</a> <p>&#169; 2021 Website. </p>
