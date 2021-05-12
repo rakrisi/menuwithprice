@@ -2,6 +2,7 @@
 
 @section('content')
 <div class="index-top">
+    
     <div class="slide"> 
         <ul class="s-list">
             <li class="s-list-pic1">

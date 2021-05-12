@@ -21,7 +21,7 @@
     </span> </div>
     
     <div>
-    <h1>A&W Restaurant Prices and Locations in Alabama</h1>
+    <h1 style="color:blue;">A&W Restaurant Prices and Locations in Alabama</h1>
     </div>
     <div class="ads ads-top"><div>
     <style type="text/css">
@@ -37,9 +37,9 @@
     </div>
     
     <div class="state">
-    <h2>Choose My City</h2>
-    <ul class="state-list">
-    <li><a href="birmingham/">Birmingham</a></li><li><a href="https://www.menuwithprice.com/menu/aandw/alabama/haleyville/">Haleyville</a></li><li><a href="https://www.menuwithprice.com/menu/aandw/alabama/huntsville/">Huntsville</a></li><li><a href="https://www.menuwithprice.com/menu/aandw/alabama/montgomery/">Montgomery</a></li><li><a href="https://www.menuwithprice.com/menu/aandw/alabama/prattville/">Prattville</a></li> </ul>
+    <h2 style="color:blue;">Select Your City in Alabama For A&W Restaurant</h2>
+    <ul class=" menu-list category-menu" >
+    <li><a href="birmingham/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Birmingham</a></li><li><a href="https://www.menuwithprice.com/menu/aandw/alabama/haleyville/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Haleyville</a></li><li><a href="https://www.menuwithprice.com/menu/aandw/alabama/huntsville/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Huntsville</a></li><li><a href="https://www.menuwithprice.com/menu/aandw/alabama/montgomery/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Montgomery</a></li><li><a href="https://www.menuwithprice.com/menu/aandw/alabama/prattville/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Prattville</a></li> </ul>
     </div>
     
     <div class="ads"><div style="text-align:center;">
@@ -57,13 +57,6 @@
     </div>
     </div>
     
-    <div class="brand brand-center">
-    <h2>Looking for a A&W Restaurant near you?</h2>
-    <p class="brand-info">A&W Restaurant is a fast-food restaurant chain which obtained opening franchises in California.It became famous in the United States for its 'frosty mugs' and is distinguished by its draft root beer and root beer floats. Besides, the typical fast-food menu of hamburgers, French fries, sweets and hot dogs can all be found there. Root beer is an optimal option for drink lovers, for it's caffeine-free and made with real cane sugar and with a proprietary blend of herbs, bark, spices and berries.</p>
-    <div class="brand-links">
-    <a href="https://www.menuwithprice.com/menu/aandw/">A&W Restaurant Menu</a>
-    <a href="https://www.menuwithprice.com/nutrition/aandw/">Nutrition Facts</a> </div>
-    </div>
     
     <div class="ads"><div>
     <style type="text/css">

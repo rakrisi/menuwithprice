@@ -13,12 +13,12 @@
     <a href="https://www.menuwithprice.com/menu-and-price/" itemprop="item"><i itemprop="name">Menu</i></a>
     <meta itemprop="position" content="2">
     </span><span itemprop="itemListElement" itemscope itemtype="http://schema.org/ListItem">
-    <a href="https://www.menuwithprice.com/menu/aandw/" itemprop="item"><i itemprop="name">A&W Restaurant Prices</i></a>
+    <a href="https://www.menuwithprice.com/menu/aandw/" itemprop="item"><i itemprop="name" style="color:blue;">A&W Restaurant Prices and Locations Near Me</i></a>
     <meta itemprop="position" content="3">
     </span> </div>
     
     <div>
-    <h1 style="color:blue;"><span style="color:blue;">A&W Restaurant</span> Prices and Locations</h1>
+    <h1 style="color:blue;"><span style="color:blue;">A&W Restaurant</span> Prices and Locations Near Me</h1>
     </div>
     
     
@@ -45,9 +45,9 @@
     <div class="choose">
     <h2 style="color:blue;">Choose My State</h2>
     <input type="checkbox">
-    <label class="label">
-    <span class="more">More</span>
-    <span class="less">Less</span>
+    <label class="label" style="background-color:blue;">
+    <span class="more" >More</span>
+    <span class="less" >Less</span>
     <span class="more-less"></span>
     </label>
     <div class="choose-list choose-state">
@@ -72,13 +72,13 @@
     <div class="prices-menu">
     <div class="menu-tab">
     <div class="menu-tab-l">
-    <h2 style="color:blue;"> A&W Restaurant Menu</h2>
+    <h2 style="color:blue;"> A&W Restaurant Menu with Price</h2>
     </div>
     </div>
     <div class="price md-price">
     <table class="prc-table">
     <tbody>
-    <tr class="prc-th"><td style="color:blue;">Combos</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Combos</td></tr>
     <tr class="pt-subtitle"><td>Includes Choice of One Side and Regular Drink</td></tr> </tbody>
     </table>
     <table class="prc-table">
@@ -86,7 +86,7 @@
     <tr class="tr"><td >Papa Burger</td><td>$6.99</td></td><td></td></tr><tr class="tr"><td>Original Bacon Double Cheeseburger</td><td>$6.99</td></td><td></td></tr><tr class="tr"><td>Grilled or Crispy Chicken</td><td>$6.99</td></td><td></td></tr><tr class="tr"><td>Coney Dog</td><td>$5.69</td></td><td></td></tr><tr class="tr"><td>Original Bacon Cheeseburger</td><td>$6.39</td></td><td></td></tr><tr class="tr"><td>Cheeseburger</td><td>$5.39</td></td><td></td></tr> </tbody>
     </table><table class="prc-table">
     <tbody>
-    <tr class="prc-th"><td style="color:blue;">Sides</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Sides</td></tr>
     </tbody>
     </table>
     <table class="prc-table">
@@ -94,7 +94,7 @@
     <tr class="tr"><td >Cheese Curds</td><td>$3.29</td></td><td>Individual</td></tr><tr class="tr"><td>Cheese Curds</td><td>$5.08</td></td><td>Premium</td></tr><tr class="tr"><td>Chili Cheese Fries</td><td>$2.99</td></td><td>Individual</td></tr><tr class="tr"><td>Chili Cheese Fries</td><td>$3.78</td></td><td>Premium</td></tr><tr class="tr"><td>Fries</td><td>$1.89</td></td><td>Individual</td></tr> </tbody>
     </table><table class="prc-table">
     <tbody>
-    <tr class="prc-th"><td style="color:blue;">Draft A&W Root Beer</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Draft A&W Root Beer</td></tr>
     </tbody>
     </table>
     <table class="prc-table">
@@ -102,15 +102,15 @@
     <tr class="tr"><td >Draft A&W Root Beer</td><td>$1.69</td></td><td>Small</td></tr><tr class="tr"><td>Draft A&W Root Beer</td><td>$1.89</td></td><td>Regular</td></tr><tr class="tr"><td>Draft A&W Root Beer</td><td>$2.09</td></td><td>Large</td></tr> </tbody>
     </table><table class="prc-table">
     <tbody>
-    <tr class="prc-th"><td style="color:blue;">Floats & Freezes</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Floats & Freezes</td></tr>
     </tbody>
     </table>
     <table class="prc-table">
     <tbody>
-    <tr class="tr"><td style="color:blue;">Float</td><td>$2.89</td></td><td>Small</td></tr><tr class="tr"><td>Float</td><td>$2.99</td></td><td>Regular</td></tr><tr class="tr"><td>Float</td><td>$3.29</td></td><td>Large</td></tr><tr class="tr"><td>Freeze</td><td>$2.89</td></td><td>Small</td></tr><tr class="tr"><td>Freeze</td><td>$2.99</td></td><td>Regular</td></tr><tr class="tr"><td>Freeze</td><td>$3.29</td></td><td>Large</td></tr> </tbody>
+    <tr class="tr"><td >Float</td><td>$2.89</td></td><td>Small</td></tr><tr class="tr"><td>Float</td><td>$2.99</td></td><td>Regular</td></tr><tr class="tr"><td>Float</td><td>$3.29</td></td><td>Large</td></tr><tr class="tr"><td>Freeze</td><td>$2.89</td></td><td>Small</td></tr><tr class="tr"><td>Freeze</td><td>$2.99</td></td><td>Regular</td></tr><tr class="tr"><td>Freeze</td><td>$3.29</td></td><td>Large</td></tr> </tbody>
     </table><table class="prc-table">
     <tbody>
-    <tr class="prc-th"><td style="color:blue;">Handspun Shakes</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Handspun Shakes</td></tr>
     </tbody>
     </table>
     <table class="prc-table">
@@ -118,7 +118,7 @@
     <tr class="tr"><td >Chocolate, Strawberry, or Vanilla</td><td>$3.59</td></td><td>Regular</td></tr> </tbody>
     </table><table class="prc-table">
     <tbody>
-    <tr class="prc-th"><td style="color:blue;">Classic Treats</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Classic Treats</td></tr>
     </tbody>
     </table>
     <table class="prc-table">
@@ -126,7 +126,7 @@
     <tr class="tr"><td >Polar Swirl</td><td>$2.99</td></td><td></td></tr><tr class="tr"><td>Sundae</td><td>$2.89</td></td><td></td></tr><tr class="tr"><td>Soft Serve Cone</td><td>$1.29</td></td><td></td></tr> </tbody>
     </table><table class="prc-table">
     <tbody>
-    <tr class="prc-th"><td style="color:blue;">Better Your Combo</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Better Your Combo</td></tr>
     </tbody>
     </table>
     <table class="prc-table">
@@ -134,7 +134,7 @@
     <tr class="tr"><td >Float it</td><td>$1.50</td></td><td></td></tr><tr class="tr"><td>Shake it</td><td>$2.00</td></td><td></td></tr><tr class="tr"><td>Freeze it</td><td>$2.00</td></td><td></td></tr> </tbody>
     </table><table class="prc-table">
     <tbody>
-    <tr class="prc-th"><td style="color:blue;">Kid's Meals</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Kid's Meals</td></tr>
     <tr class="pt-subtitle"><td>Meal Includes Kid's Side, Kid's Drink & Special Prize</td></tr> </tbody>
     </table>
     <table class="prc-table">
@@ -142,13 +142,13 @@
     <tr class="tr"><td >Cheeseburger</td><td>$3.99</td></td><td></td></tr><tr class="tr"><td>Hamburger</td><td>$3.99</td></td><td></td></tr><tr class="tr"><td>Hot Dog</td><td>$3.99</td></td><td></td></tr><tr class="tr"><td>Corn Dog Nuggets</td><td>$3.99</td></td><td></td></tr><tr class="tr"><td>Chicken Strips</td><td>$3.99</td></td><td></td></tr> </tbody>
     </table><table class="prc-table">
     <tbody>
-    <tr class="prc-th"><td style="color:blue;">Drinks</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Drinks</td></tr>
     </tbody>
     </table>
     <table class="prc-table">
     <tbody>
     <tr class="tr"><td >Soft Drink</td><td>$1.89</td></td><td>Small</td></tr><tr class="tr"><td>Soft Drink</td><td>$1.99</td></td><td>Regular</td></tr><tr class="tr"><td>Soft Drink</td><td>$2.19</td></td><td>Large</td></tr><tr class="tr"><td>Tea</td><td>$2.79</td></td><td>Half Gallon</td></tr><tr class="tr"><td>A&W Root Beer</td><td>$2.99</td></td><td>Half Gallon</td></tr> </tbody>
-    </table> <p class="link_out">Menu Also Available on <a href="https://www.menuswithprice.com/aandw-menu/">A&W Restaurant Menu</a></p>
+    </table> <p class="link_out">Menu Also Available on <a href="https://www.menuswithprice.com/aandw-menu/" style="background-color:lightblue;">A&W Restaurant Menu</a></p>
     </div>
     </div>
      <div class="ads"><div>
@@ -169,6 +169,5 @@
     
     </div>
     
-    </div> </div>
     </div>
 @endsection

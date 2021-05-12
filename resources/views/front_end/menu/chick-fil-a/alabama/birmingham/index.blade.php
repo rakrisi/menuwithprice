@@ -23,7 +23,7 @@
     <meta itemprop="position" content="5">
     </span> </div>
     
-    <h1>Chick-fil-A Prices and Locations in Birmingham, AL</h1>
+    <h1 style="color:blue;">Chick-fil-A Prices and Locations in Birmingham, AL</h1>
     <div class="ads ads-top"><div>
     <style type="text/css">
     .mwp_ads_1 { width: 100%; height: 252px; }
@@ -152,7 +152,7 @@
     </div>
     
     <div class="brand brand-center">
-    <h2>Looking for a Chick-fil-A near you?</h2>
+    <h2 style="color:blue;">Looking for a Chick-fil-A near you?</h2>
     <p class="brand-info">Chick-fil-A is an American fast food restaurant chain founded in 1946. The company features chicken sandwiches. The favorites include Spicy Chicken Deluxe and Grilled Chicken Sandwich. Other favorites include trays, desserts, wraps and salads.</p>
     <div class="brand-links">
     <a href="https://www.menuwithprice.com/menu/chick-fil-a/">Chick-fil-A Menu</a>

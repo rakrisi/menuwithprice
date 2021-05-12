@@ -26,7 +26,7 @@
     <meta itemprop="position" content="6">
     </span> </div>
     
-    <h1><span>A&W Restaurant</span> Prices in Birmingham, AL 35235</h1>
+    <h1 style="color:blue;"><span style="color:blue;">A&W Restaurant</span> Prices in Birmingham, AL 35235</h1>
     
     <div class="star_div">
     <div class="rating">
@@ -71,13 +71,16 @@
     </a>
     <div class="brdt-list">
     <ul class="brct-list">
-    <li id="dt-addr"><a href="http://maps.google.com/?daddr=1674+Gadsen+Hwy%2C+Birmingham%2C+AL" target="_blank">1674 Gadsen Hwy, Birmingham, AL</a></li>
-    <li id="dt-tel">
-    <a href="tel:(205)%20661-3381">(205) 661-3381</a>
-    </li> <li id="dt-menu"><a href="https://www.menuwithprice.com/menu/aandw/">A&W Restaurant Menu</a></li>
-    <li id="dt-nutri">
-    <a href="https://www.menuwithprice.com/nutrition/aandw/">A&W Restaurant Nutrition</a>
-    </li> <li id="dt-cuisine">
+    <li ><a href="http://maps.google.com/?daddr=1674+Gadsen+Hwy%2C+Birmingham%2C+AL" target="_blank"><b>Address:</b>1674 Gadsen Hwy, Birmingham, AL</a>
+    <a href="tel:(205)%20661-3381"><b>Phone Number:</b>(205) 661-3381</a>
+    
+    </li>
+    
+ <li ><a href="https://www.menuwithprice.com/menu/aandw/"><b>Menu:</b>A&W Restaurant Menu</a>
+ <a href="https://www.menuwithprice.com/nutrition/aandw/"><b>Nutrition:</b>A&W Restaurant Nutrition</a>
+    
+ </li>
+     <li id="dt-cuisine">
     <div class="cuisine">
     <span>Cuisine:</span>
     <b>
@@ -92,31 +95,18 @@
     
     
     <div class="hours">
-    <h2>Hours of Operation</h2>
+    <h2 style="color:blue;">A&W Hours | A&W Opening & Closing Hours</h2>
     <ul class="hours-list">
     <li class="regular_hours_empty">
     <p>Hours may fluctuate. For detailed hours of operation, please contact the store directly.</p>
     </li></ul> </div>
     
-    <div class="ads"><div style="text-align:center;">
-    <style type="text/css">
-    .mwp_ads_2 { width: 100%; height: 250px; }
-    @media (min-width:336px) { .mwp_ads_2 { width: 100%; height: 280px; } }
-    @media (min-width:768px) { .mwp_ads_2 { width: 100%; height: 100px; } }
-    </style>
-    
-    <ins class="adsbygoogle mwp_ads_2" style="display:inline-block" data-ad-client="ca-pub-6371063963738592" data-ad-slot="4099935279"></ins>
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="441593d65f4abd6a8c9a0d9c-text/javascript"></script>
-    <script type="441593d65f4abd6a8c9a0d9c-text/javascript">
-    (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-    </div>
     </div>
     
     <div class="prices food-detail-peice">
-    <h2>Restaurant Menu</h2> <table class="prc-table default-table">
+    <h2 style="color:blue;">A&W Menu with Price in Birmingham</h2> <table class="prc-table default-table">
     <tbody>
-    <tr class="prc-th"><td>Combos</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Combos</td></tr>
     <tr class="pt-subtitle">
     <td>Includes Choice of One Side and Regular Drink</td>
     </tr> </tbody>
@@ -126,7 +116,7 @@
     <tr class="tr"><td>Papa Burger</td><td>$6.99</td><td></td></tr><tr class="tr"><td>Original Bacon Double Cheeseburger</td><td>$6.99</td><td></td></tr><tr class="tr"><td>Grilled or Crispy Chicken</td><td>$6.99</td><td></td></tr><tr class="tr"><td>Coney Dog</td><td>$5.69</td><td></td></tr><tr class="tr"><td>Original Bacon Cheeseburger</td><td>$6.39</td><td></td></tr><tr class="tr"><td>Cheeseburger</td><td>$5.39</td><td></td></tr> </tbody>
     </table><table class="prc-table default-table">
     <tbody>
-    <tr class="prc-th"><td>Sides</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Sides</td></tr>
     </tbody>
     </table>
     <table class="prc-table default-table">
@@ -134,7 +124,7 @@
     <tr class="tr"><td>Cheese Curds</td><td>$3.29</td><td>Individual</td></tr><tr class="tr"><td>Cheese Curds</td><td>$5.08</td><td>Premium</td></tr><tr class="tr"><td>Chili Cheese Fries</td><td>$2.99</td><td>Individual</td></tr><tr class="tr"><td>Chili Cheese Fries</td><td>$3.78</td><td>Premium</td></tr><tr class="tr"><td>Fries</td><td>$1.89</td><td>Individual</td></tr> </tbody>
     </table><table class="prc-table default-table">
     <tbody>
-    <tr class="prc-th"><td>Draft A&W Root Beer</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Draft A&W Root Beer</td></tr>
     </tbody>
     </table>
     <table class="prc-table default-table">
@@ -142,7 +132,7 @@
     <tr class="tr"><td>Draft A&W Root Beer</td><td>$1.69</td><td>Small</td></tr><tr class="tr"><td>Draft A&W Root Beer</td><td>$1.89</td><td>Regular</td></tr><tr class="tr"><td>Draft A&W Root Beer</td><td>$2.09</td><td>Large</td></tr> </tbody>
     </table><table class="prc-table default-table">
     <tbody>
-    <tr class="prc-th"><td>Floats & Freezes</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Floats & Freezes</td></tr>
     </tbody>
     </table>
     <table class="prc-table default-table">
@@ -150,7 +140,7 @@
     <tr class="tr"><td>Float</td><td>$2.89</td><td>Small</td></tr><tr class="tr"><td>Float</td><td>$2.99</td><td>Regular</td></tr><tr class="tr"><td>Float</td><td>$3.29</td><td>Large</td></tr><tr class="tr"><td>Freeze</td><td>$2.89</td><td>Small</td></tr><tr class="tr"><td>Freeze</td><td>$2.99</td><td>Regular</td></tr><tr class="tr"><td>Freeze</td><td>$3.29</td><td>Large</td></tr> </tbody>
     </table><table class="prc-table default-table">
     <tbody>
-    <tr class="prc-th"><td>Handspun Shakes</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Handspun Shakes</td></tr>
     </tbody>
     </table>
     <table class="prc-table default-table">
@@ -158,7 +148,7 @@
     <tr class="tr"><td>Chocolate, Strawberry, or Vanilla</td><td>$3.59</td><td>Regular</td></tr> </tbody>
     </table><table class="prc-table default-table">
     <tbody>
-    <tr class="prc-th"><td>Classic Treats</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Classic Treats</td></tr>
     </tbody>
     </table>
     <table class="prc-table default-table">
@@ -166,7 +156,7 @@
     <tr class="tr"><td>Polar Swirl</td><td>$2.99</td><td></td></tr><tr class="tr"><td>Sundae</td><td>$2.89</td><td></td></tr><tr class="tr"><td>Soft Serve Cone</td><td>$1.29</td><td></td></tr> </tbody>
     </table><table class="prc-table default-table">
     <tbody>
-    <tr class="prc-th"><td>Better Your Combo</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Better Your Combo</td></tr>
     </tbody>
     </table>
     <table class="prc-table default-table">
@@ -174,7 +164,7 @@
     <tr class="tr"><td>Float it</td><td>$1.50</td><td></td></tr><tr class="tr"><td>Shake it</td><td>$2.00</td><td></td></tr><tr class="tr"><td>Freeze it</td><td>$2.00</td><td></td></tr> </tbody>
     </table><table class="prc-table default-table">
     <tbody>
-    <tr class="prc-th"><td>Kid's Meals</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Kid's Meals</td></tr>
     <tr class="pt-subtitle">
     <td>Meal Includes Kid's Side, Kid's Drink & Special Prize</td>
     </tr> </tbody>
@@ -184,7 +174,7 @@
     <tr class="tr"><td>Cheeseburger</td><td>$3.99</td><td></td></tr><tr class="tr"><td>Hamburger</td><td>$3.99</td><td></td></tr><tr class="tr"><td>Hot Dog</td><td>$3.99</td><td></td></tr><tr class="tr"><td>Corn Dog Nuggets</td><td>$3.99</td><td></td></tr><tr class="tr"><td>Chicken Strips</td><td>$3.99</td><td></td></tr> </tbody>
     </table><table class="prc-table default-table">
     <tbody>
-    <tr class="prc-th"><td>Drinks</td></tr>
+    <tr class="prc-th"><td style="background-color:lightblue;">Drinks</td></tr>
     </tbody>
     </table>
     <table class="prc-table default-table">
@@ -192,21 +182,9 @@
     <tr class="tr"><td>Soft Drink</td><td>$1.89</td><td>Small</td></tr><tr class="tr"><td>Soft Drink</td><td>$1.99</td><td>Regular</td></tr><tr class="tr"><td>Soft Drink</td><td>$2.19</td><td>Large</td></tr><tr class="tr"><td>Tea</td><td>$2.79</td><td>Half Gallon</td></tr><tr class="tr"><td>A&W Root Beer</td><td>$2.99</td><td>Half Gallon</td></tr> </tbody>
     </table> </div>
     
-    <p class="Disclaimer"><b>* Disclaimer:</b> Information shown on the website may not cover recent changes. For current price and menu information, please contact the restaurant directly.</p> <div class="ads"><div>
-    <style type="text/css">
-    .mwp_ads_3 { width: 100%; height: 250px; }
-    @media (min-width:336px) { .mwp_ads_3 { width: 100%; height: 280px; } }
-    @media (min-width:768px) { .mwp_ads_3 { width: 100%; height: 100px; } }
-    </style>
-    
-    <ins class="adsbygoogle mwp_ads_3" style="display:inline-block" data-ad-client="ca-pub-6371063963738592" data-ad-slot="1006868077"></ins>
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="441593d65f4abd6a8c9a0d9c-text/javascript"></script>
-    <script type="441593d65f4abd6a8c9a0d9c-text/javascript">
-    (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
+    <div class="ads"><div>
     </div>
     </div> 
     
-    </div>
     </div>
 @endsection

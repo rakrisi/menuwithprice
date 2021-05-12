@@ -23,7 +23,7 @@
     <meta itemprop="position" content="5">
     </span> </div>
     
-    <h1>Applebee's Prices and Locations in Athens, AL</h1>
+    <h1 style="color:blue;">Applebee's Prices and Locations in Athens, AL</h1>
     <div class="ads ads-top"><div>
     <style type="text/css">
     .mwp_ads_1 { width: 100%; height: 252px; }
@@ -74,7 +74,7 @@
     </div>
     
     <div class="brand brand-center">
-    <h2>Looking for a Applebee's near you?</h2>
+    <h2 style="color:blue;">Looking for a Applebee's near you?</h2>
     <p class="brand-info">Applebee's is an American grill and bar casual dining restaurant chain that was founded in Decatur, Georgia by Bill and T. J. Palmer in November 19, 1980. The headquarter is located in Kansas City, Missouri, US. By the end of 2013, there are 2003 restaurants across the United States and 15 in other countries. Its menu includes steaks, sandwiches, burgers, salads and an extensive bar snacks and appetizers. It also provides a very interesting and healthy menu for kids under 12 including meals, sides, and drinks.</p>
     <div class="brand-links">
     <a href="https://www.menuwithprice.com/menu/applebees/">Applebee's Menu</a>

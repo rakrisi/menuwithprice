@@ -23,7 +23,7 @@
     <meta itemprop="position" content="5">
     </span> </div>
     
-    <h1>Arya Kabob House Prices and Locations in Flushing, NY</h1>
+    <h1 style="color:blue;">Arya Kabob House Prices and Locations in Flushing, NY</h1>
     <div class="ads ads-top"><div>
     <style type="text/css">
     .mwp_ads_1 { width: 100%; height: 252px; }
@@ -42,7 +42,7 @@
     <tbody>
     <tr>
     <td>
-    <a href="658336/">Arya Kabob House - <span>33-35 Francis Lewis Blvd</span></a>
+    <a href="658336/" >Arya Kabob House - <span>33-35 Francis Lewis Blvd</span></a>
     <div class="store-addr">
     <span>Flushing</span>, <span>New York</span>
     <span class="stores-phone">(347) 368-4471</span>
@@ -68,7 +68,7 @@
     </div>
     
     <div class="brand brand-center">
-    <h2>Looking for a Arya Kabob House near you?</h2>
+    <h2 style="color:blue;">Looking for a Arya Kabob House near you?</h2>
     <p class="brand-info">Dining is never a trivial thing. Is it troubling you in finding a restaurant with the most comfortable environment, the most delicious food, the most balanced diet and the fairest price? Find the nearest restaurant and up to date menus on FoodMenPrice.com. Bon appetit！</p> <div class="brand-links">
     <a href="https://www.menuwithprice.com/menu/arya-kabob-house/">Arya Kabob House Menu</a>
     </div>

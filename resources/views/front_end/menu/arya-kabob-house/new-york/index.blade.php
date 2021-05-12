@@ -21,7 +21,7 @@
     </span> </div>
     
     <div>
-    <h1>Arya Kabob House Prices and Locations in New York</h1>
+    <h1 style="color:blue;">Arya Kabob House Prices and Locations in New York</h1>
     </div>
     <div class="ads ads-top"><div>
     <style type="text/css">
@@ -37,9 +37,9 @@
     </div>
     
     <div class="state">
-    <h2>Choose My City</h2>
-    <ul class="state-list">
-    <li><a href="flushing/">Flushing</a></li> </ul>
+    <h2 style="color:blue;">Select Your City in Alabama For Arya-Kabob-House Restaurant</h2>
+    <ul class="menu-list category-menu">
+    <li><a href="flushing/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Flushing</a></li> </ul>
     </div>
     
     <div class="ads"><div style="text-align:center;">
@@ -57,12 +57,6 @@
     </div>
     </div>
     
-    <div class="brand brand-center">
-    <h2>Looking for a Arya Kabob House near you?</h2>
-    <p class="brand-info">Dining is never a trivial thing. Is it troubling you in finding a restaurant with the most comfortable environment, the most delicious food, the most balanced diet and the fairest price? Find the nearest restaurant and up to date menus on FoodMenPrice.com. Bon appetit！</p> <div class="brand-links">
-    <a href="https://www.menuwithprice.com/menu/arya-kabob-house/">Arya Kabob House Menu</a>
-    </div>
-    </div>
     
     <div class="ads"><div>
     <style type="text/css">

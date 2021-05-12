@@ -1,5 +1,5 @@
 @extends('layouts.main')
-@section('name')
+@section('content')
     
 <div class="content">
     <div class="main">
@@ -23,7 +23,7 @@
     <meta itemprop="position" content="5">
     </span> </div>
     
-    <h1>A&W Restaurant Prices and Locations in Birmingham, AL</h1>
+    <h1 style="color:blue;">A&W Restaurant Prices and Locations in Birmingham, AL</h1>
     <div class="ads ads-top"><div>
     <style type="text/css">
     .mwp_ads_1 { width: 100%; height: 252px; }
@@ -68,7 +68,7 @@
     </div>
     
     <div class="brand brand-center">
-    <h2>Looking for a A&W Restaurant near you?</h2>
+    <h2 style="color:blue;">Looking for a A&W Restaurant near you?</h2>
     <p class="brand-info">A&W Restaurant is a fast-food restaurant chain which obtained opening franchises in California.It became famous in the United States for its 'frosty mugs' and is distinguished by its draft root beer and root beer floats. Besides, the typical fast-food menu of hamburgers, French fries, sweets and hot dogs can all be found there. Root beer is an optimal option for drink lovers, for it's caffeine-free and made with real cane sugar and with a proprietary blend of herbs, bark, spices and berries.</p>
     <div class="brand-links">
     <a href="https://www.menuwithprice.com/menu/aandw/">A&W Restaurant Menu</a>

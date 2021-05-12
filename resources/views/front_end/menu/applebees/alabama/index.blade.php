@@ -21,7 +21,7 @@
     </span> </div>
     
     <div>
-    <h1>Applebee's Prices and Locations in Alabama</h1>
+    <h1 style="color:blue;">Applebee's Prices and Locations in Alabama</h1>
     </div>
     <div class="ads ads-top"><div>
     <style type="text/css">
@@ -37,9 +37,9 @@
     </div>
     
     <div class="state">
-    <h2>Choose My City</h2>
-    <ul class="state-list">
-    <li><a href="athens/">Athens</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/auburn/">Auburn</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/bessemer/">Bessemer</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/birmingham/">Birmingham</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/center-point/">Center Point</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/chelsea/">Chelsea</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/decatur/">Decatur</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/dothan/">Dothan</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/florence/">Florence</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/foley/">Foley</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/fultondale/">Fultondale</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/gadsden/">Gadsden</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/guntersville/">Guntersville</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/hoover/">Hoover</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/huntsville/">Huntsville</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/madison/">Madison</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/mobile/">Mobile</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/montgomery/">Montgomery</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/oxford/">Oxford</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/ozark/">Ozark</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/pelham/">Pelham</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/phenix-city/">Phenix City</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/prattville/">Prattville</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/trussville/">Trussville</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/tuscaloosa/">Tuscaloosa</a></li> </ul>
+    <h2 style="color:blue;">Select Your City in Alabama For Applebees Restaurant</h2>
+    <ul class="menu-list">
+    <li><a href="athens/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Athens</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/auburn/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Auburn</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/bessemer/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Bessemer</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/birmingham/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Birmingham</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/center-point/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Center Point</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/chelsea/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Chelsea</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/decatur/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Decatur</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/dothan/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Dothan</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/florence/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Florence</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/foley/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Foley</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/fultondale/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Fultondale</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/gadsden/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Gadsden</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/guntersville/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Guntersville</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/hoover/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Hoover</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/huntsville/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Huntsville</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/madison/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Madison</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/mobile/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Mobile</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/montgomery/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Montgomery</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/oxford/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Oxford</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/ozark/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Ozark</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/pelham/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Pelham</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/phenix-city/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Phenix City</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/prattville/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Prattville</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/trussville/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Trussville</a></li><li><a href="https://www.menuwithprice.com/menu/applebees/alabama/tuscaloosa/" style="border:1px solid blue;text-align: center;font-size:18px;font-family:Arial, Helvetica, sans-serif;">Tuscaloosa</a></li> </ul>
     </div>
     
     <div class="ads"><div style="text-align:center;">
@@ -57,28 +57,7 @@
     </div>
     </div>
     
-    <div class="brand brand-center">
-    <h2>Looking for a Applebee's near you?</h2>
-    <p class="brand-info">Applebee's is an American grill and bar casual dining restaurant chain that was founded in Decatur, Georgia by Bill and T. J. Palmer in November 19, 1980. The headquarter is located in Kansas City, Missouri, US. By the end of 2013, there are 2003 restaurants across the United States and 15 in other countries. Its menu includes steaks, sandwiches, burgers, salads and an extensive bar snacks and appetizers. It also provides a very interesting and healthy menu for kids under 12 including meals, sides, and drinks.</p>
-    <div class="brand-links">
-    <a href="https://www.menuwithprice.com/menu/applebees/">Applebee's Menu</a>
-    <a href="https://www.menuwithprice.com/nutrition/applebees/">Nutrition Facts</a> </div>
-    </div>
     
-    <div class="ads"><div>
-    <style type="text/css">
-    .mwp_ads_3 { width: 100%; height: 250px; }
-    @media (min-width:336px) { .mwp_ads_3 { width: 100%; height: 280px; } }
-    @media (min-width:768px) { .mwp_ads_3 { width: 100%; height: 100px; } }
-    </style>
-    
-    <ins class="adsbygoogle mwp_ads_3" style="display:inline-block" data-ad-client="ca-pub-6371063963738592" data-ad-slot="1006868077"></ins>
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="a278af7793b6229f839967d5-text/javascript"></script>
-    <script type="a278af7793b6229f839967d5-text/javascript">
-    (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-    </div>
-    </div>
     
     
     </div>

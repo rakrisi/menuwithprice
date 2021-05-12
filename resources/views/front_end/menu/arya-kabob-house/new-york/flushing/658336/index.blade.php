@@ -26,7 +26,7 @@
     <meta itemprop="position" content="6">
     </span> </div>
     
-    <h1><span>Arya Kabob House</span> Prices in Flushing, NY 11358</h1>
+    <h1 style="color:blue;"><span style="color:blue;">Arya Kabob House</span> Prices in Flushing, NY 11358</h1>
     
     <div class="star_div">
     <div class="rating">
@@ -67,10 +67,11 @@
     
     <div class="brand brct-detail">
     <div class="brdt-list brct-logo-none"> <ul class="brct-list">
-    <li id="dt-addr"><a href="http://maps.google.com/?daddr=33-35+Francis+Lewis+Blvd%2C+Flushing%2C+NY" target="_blank">33-35 Francis Lewis Blvd, Flushing, NY</a></li>
-    <li id="dt-tel">
-    <a href="tel:(347)%20368-4471">(347) 368-4471</a>
-    </li> <li id="dt-menu"><a href="https://www.menuwithprice.com/menu/arya-kabob-house/">Arya Kabob House Menu</a></li>
+    <li ><a href="http://maps.google.com/?daddr=33-35+Francis+Lewis+Blvd%2C+Flushing%2C+NY" target="_blank"><b>Address:</b>33-35 Francis Lewis Blvd, Flushing, NY</a>
+    <a href="tel:(347)%20368-4471"><b>Phone Number:</b>(347) 368-4471</a>
+    
+    </li>
+    <li ><a href="https://www.menuwithprice.com/menu/arya-kabob-house/"><b>Menu:</b>Arya Kabob House Menu</a></li>
     <li id="dt-cuisine">
     <div class="cuisine">
     <span>Cuisine:</span>
@@ -85,55 +86,92 @@
     
     
     <div class="hours">
-    <h2>Hours of Operation</h2>
+    <h2 style ="color:blue;">Arya-Kabob-House Hours | Arya-Kabob-House Opening & Closing Hours</h2>
     <ul class="hours-list">
     <li class="regular_hours_empty">
     <p>Hours may fluctuate. For detailed hours of operation, please contact the store directly.</p>
     </li></ul> </div>
     
-    <div class="ads"><div style="text-align:center;">
-    <style type="text/css">
-    .mwp_ads_2 { width: 100%; height: 250px; }
-    @media (min-width:336px) { .mwp_ads_2 { width: 100%; height: 280px; } }
-    @media (min-width:768px) { .mwp_ads_2 { width: 100%; height: 100px; } }
-    </style>
-    
-    <ins class="adsbygoogle mwp_ads_2" style="display:inline-block" data-ad-client="ca-pub-6371063963738592" data-ad-slot="4099935279"></ins>
-    <script async src="//pagead2.googlesyndication.com/pagead/js/adsbygoogle.js" type="28855fc63dc83f0b6cf1c98a-text/javascript"></script>
-    <script type="28855fc63dc83f0b6cf1c98a-text/javascript">
-    (adsbygoogle = window.adsbygoogle || []).push({});
-    </script>
-    </div>
-    </div>
-    
     <div class="prices food-detail-peice">
-    </div>
+    <h2 style="color:blue;">A&W Menu with Price in Birmingham</h2> <table class="prc-table default-table">
+    <tbody>
+    <tr class="prc-th"><td style="background-color:lightblue;">Combos</td></tr>
+    <tr class="pt-subtitle">
+    <td>Includes Choice of One Side and Regular Drink</td>
+    </tr> </tbody>
+    </table>
+    <table class="prc-table default-table">
+    <tbody>
+    <tr class="tr"><td>Papa Burger</td><td>$6.99</td><td></td></tr><tr class="tr"><td>Original Bacon Double Cheeseburger</td><td>$6.99</td><td></td></tr><tr class="tr"><td>Grilled or Crispy Chicken</td><td>$6.99</td><td></td></tr><tr class="tr"><td>Coney Dog</td><td>$5.69</td><td></td></tr><tr class="tr"><td>Original Bacon Cheeseburger</td><td>$6.39</td><td></td></tr><tr class="tr"><td>Cheeseburger</td><td>$5.39</td><td></td></tr> </tbody>
+    </table><table class="prc-table default-table">
+    <tbody>
+    <tr class="prc-th"><td style="background-color:lightblue;">Sides</td></tr>
+    </tbody>
+    </table>
+    <table class="prc-table default-table">
+    <tbody>
+    <tr class="tr"><td>Cheese Curds</td><td>$3.29</td><td>Individual</td></tr><tr class="tr"><td>Cheese Curds</td><td>$5.08</td><td>Premium</td></tr><tr class="tr"><td>Chili Cheese Fries</td><td>$2.99</td><td>Individual</td></tr><tr class="tr"><td>Chili Cheese Fries</td><td>$3.78</td><td>Premium</td></tr><tr class="tr"><td>Fries</td><td>$1.89</td><td>Individual</td></tr> </tbody>
+    </table><table class="prc-table default-table">
+    <tbody>
+    <tr class="prc-th"><td style="background-color:lightblue;">Draft A&W Root Beer</td></tr>
+    </tbody>
+    </table>
+    <table class="prc-table default-table">
+    <tbody>
+    <tr class="tr"><td>Draft A&W Root Beer</td><td>$1.69</td><td>Small</td></tr><tr class="tr"><td>Draft A&W Root Beer</td><td>$1.89</td><td>Regular</td></tr><tr class="tr"><td>Draft A&W Root Beer</td><td>$2.09</td><td>Large</td></tr> </tbody>
+    </table><table class="prc-table default-table">
+    <tbody>
+    <tr class="prc-th"><td style="background-color:lightblue;">Floats & Freezes</td></tr>
+    </tbody>
+    </table>
+    <table class="prc-table default-table">
+    <tbody>
+    <tr class="tr"><td>Float</td><td>$2.89</td><td>Small</td></tr><tr class="tr"><td>Float</td><td>$2.99</td><td>Regular</td></tr><tr class="tr"><td>Float</td><td>$3.29</td><td>Large</td></tr><tr class="tr"><td>Freeze</td><td>$2.89</td><td>Small</td></tr><tr class="tr"><td>Freeze</td><td>$2.99</td><td>Regular</td></tr><tr class="tr"><td>Freeze</td><td>$3.29</td><td>Large</td></tr> </tbody>
+    </table><table class="prc-table default-table">
+    <tbody>
+    <tr class="prc-th"><td style="background-color:lightblue;">Handspun Shakes</td></tr>
+    </tbody>
+    </table>
+    <table class="prc-table default-table">
+    <tbody>
+    <tr class="tr"><td>Chocolate, Strawberry, or Vanilla</td><td>$3.59</td><td>Regular</td></tr> </tbody>
+    </table><table class="prc-table default-table">
+    <tbody>
+    <tr class="prc-th"><td style="background-color:lightblue;">Classic Treats</td></tr>
+    </tbody>
+    </table>
+    <table class="prc-table default-table">
+    <tbody>
+    <tr class="tr"><td>Polar Swirl</td><td>$2.99</td><td></td></tr><tr class="tr"><td>Sundae</td><td>$2.89</td><td></td></tr><tr class="tr"><td>Soft Serve Cone</td><td>$1.29</td><td></td></tr> </tbody>
+    </table><table class="prc-table default-table">
+    <tbody>
+    <tr class="prc-th"><td style="background-color:lightblue;">Better Your Combo</td></tr>
+    </tbody>
+    </table>
+    <table class="prc-table default-table">
+    <tbody>
+    <tr class="tr"><td>Float it</td><td>$1.50</td><td></td></tr><tr class="tr"><td>Shake it</td><td>$2.00</td><td></td></tr><tr class="tr"><td>Freeze it</td><td>$2.00</td><td></td></tr> </tbody>
+    </table><table class="prc-table default-table">
+    <tbody>
+    <tr class="prc-th"><td style="background-color:lightblue;">Kid's Meals</td></tr>
+    <tr class="pt-subtitle">
+    <td>Meal Includes Kid's Side, Kid's Drink & Special Prize</td>
+    </tr> </tbody>
+    </table>
+    <table class="prc-table default-table">
+    <tbody>
+    <tr class="tr"><td>Cheeseburger</td><td>$3.99</td><td></td></tr><tr class="tr"><td>Hamburger</td><td>$3.99</td><td></td></tr><tr class="tr"><td>Hot Dog</td><td>$3.99</td><td></td></tr><tr class="tr"><td>Corn Dog Nuggets</td><td>$3.99</td><td></td></tr><tr class="tr"><td>Chicken Strips</td><td>$3.99</td><td></td></tr> </tbody>
+    </table><table class="prc-table default-table">
+    <tbody>
+    <tr class="prc-th"><td style="background-color:lightblue;">Drinks</td></tr>
+    </tbody>
+    </table>
+    <table class="prc-table default-table">
+    <tbody>
+    <tr class="tr"><td>Soft Drink</td><td>$1.89</td><td>Small</td></tr><tr class="tr"><td>Soft Drink</td><td>$1.99</td><td>Regular</td></tr><tr class="tr"><td>Soft Drink</td><td>$2.19</td><td>Large</td></tr><tr class="tr"><td>Tea</td><td>$2.79</td><td>Half Gallon</td></tr><tr class="tr"><td>A&W Root Beer</td><td>$2.99</td><td>Half Gallon</td></tr> </tbody>
+    </table> </div>
     
+    </div>
+    </div> 
     
-    <div class="peop-read">
-    <h2>People Are Reading</h2>
-    <ul class="fdch-list">
-    <li>
-    <a href="https://www.menuwithprice.com/food-blog/the-unknown-history-of-black-pepper/">
-    <span><img src="//cdn.menuwithprice.com/Images/blog/list/the-unknown-history-of-black-pepper.jpg" alt="The Unknown History of Black Pepper"></span>
-    <div class="fdch-dsc"><em>The Unknown History of Black Pepper</em></div>
-    <p><span>Because we use black pepper every day in almost every dish, we naturally think that we know everything about it. But did you know that it was NOT originated in Europe (not even in the West)?</span></p>
-    </a>
-    </li><li>
-    <a href="https://www.menuwithprice.com/food-blog/6-best-foods-to-help-lower-blood-pressure/">
-    <span><img src="//cdn.menuwithprice.com/Images/blog/list/6-best-foods-to-help-lower-blood-pressure.jpg" alt="6 Best Foods To Help Lower Blood Pressure"></span>
-    <div class="fdch-dsc"><em>6 Best Foods To Help Lower Blood Pressure</em></div>
-    <p><span>While high blood pressure can be fatal as it increases a person's risks of heart diseases, stroke, and kidney deficiency, here're 6 magical foods that can help lower your blood pressure. Read on and add them to your diet for good.</span></p>
-    </a>
-    </li> </ul>
-    </div>
-    
-    </div>
-    <div class="right right_none">
-    <div>
-    <h2>Hot Menus</h2>
-    <ul>
-    <li><a href="https://www.menuwithprice.com/menu/arbys/">Arby's Menu</a></li><li><a href="https://www.menuwithprice.com/menu/carls-jr/">Carl's Jr. Menu</a></li><li><a href="https://www.menuwithprice.com/menu/chick-fil-a/">Chick-fil-A Menu</a></li><li><a href="https://www.menuwithprice.com/menu/chipotle-mexican-grill/">Chipotle Mexican Grill Menu</a></li><li><a href="https://www.menuwithprice.com/menu/del-taco/">Del Taco Menu</a></li><li><a href="https://www.menuwithprice.com/menu/el-pollo-loco/">El Pollo Loco Menu</a></li><li><a href="https://www.menuwithprice.com/menu/golden-corral/">Golden Corral Menu</a></li><li><a href="https://www.menuwithprice.com/menu/hardees/">Hardee's Menu</a></li><li><a href="https://www.menuwithprice.com/menu/jack-in-the-box/">Jack in the Box Menu</a></li><li><a href="https://www.menuwithprice.com/menu/jimmy-johns/">Jimmy John's Menu</a></li><li><a href="https://www.menuwithprice.com/menu/kfc/">KFC Menu</a></li><li><a href="https://www.menuwithprice.com/menu/little-caesars-pizza/">Little Caesars Pizza Menu</a></li><li><a href="https://www.menuwithprice.com/menu/long-john-silvers/">Long John Silver's Menu</a></li><li><a href="https://www.menuwithprice.com/menu/mcdonalds/">McDonald's Menu</a></li><li><a href="https://www.menuwithprice.com/menu/pizza-hut/">Pizza Hut Menu</a></li><li><a href="https://www.menuwithprice.com/menu/popeyes-louisiana-kitchen/">Popeyes Louisiana Kitchen Menu</a></li><li><a href="https://www.menuwithprice.com/menu/raising-canes/">Raising Cane's Menu</a></li><li><a href="https://www.menuwithprice.com/menu/steak-n-shake/">Steak 'n Shake Menu</a></li><li><a href="https://www.menuwithprice.com/menu/waffle-house/">Waffle House Menu</a></li><li><a href="https://www.menuwithprice.com/menu/wendys/">Wendy's Menu</a></li> </ul>
-    </div> </div>
-    </div>
 @endsection
