@@ -33,7 +33,7 @@
             <label class="search-body-label" for="search-btn"></label>
            
             <a class="logo" href="/">
-                <img src="{{ asset('user/front_end/images/logo.png')}}"
+                <img src="{{ asset('user/front_end/images/icon.png')}}"
                     alt="Menu With Price">
             </a>
            
@@ -41,7 +41,7 @@
     <div class="menu" style="background-color: gray;">
         <div class="menu_width">
             <a class="logo" href="/">
-                <img src="{{ asset('user/front_end/images/logo.png')}}" alt="Menu With Price">
+                <img src="{{ asset('user/front_end/images/icon.png')}}" alt="Menu With Price">
             </a>
             <ul class="m-list">
                 <li class="ml-home">

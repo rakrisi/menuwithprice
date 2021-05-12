@@ -1087,7 +1087,7 @@ input {
 .index-top {
 	margin: 0 auto;
 	box-sizing: border-box;
-	width: 1013px;
+	width: 100%;
 	margin-top: 15px
 }
 
