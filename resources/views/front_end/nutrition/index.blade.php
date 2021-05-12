@@ -1,47 +1,5 @@
 @extends('layouts.main')
-    <div class="header" style="background-color: gray;">
-        <label for="mn-mbl" class="body_btn"></label>
-            <label class="mnmbl-label" for="mn-mbl"></label>
-                <div class="hd-bar" style="background-color: gray;" >
-                    <a class="logo" href="/">
-                        <img src="{{ asset('user/front_end/images/icon.png')}}" alt="Menu With Price">
-                    </a>
-    </div>
-    <div class="menu" style="background-color: gray;">
-        <div class="menu_width">
-            <a class="logo" href="/">
-                <img src="{{ asset('user/front_end/images/icon.png')}}" alt="Menu With Price">
-            </a>
-            <ul class="m-list">
-                <li class="ml-home">
-                    <a href="/" class="active" style="background-color: gray;">
-                        home
-                    </a>
-                </li>
-                <li>
-                    <a href="../menu-and-price/" style="background-color: gray;">
-                        all menus
-                    </a>
-                </li>
-                <li>
-                    <a href="../restaurant-near-me/" style="background-color: gray;">
-                        food near me
-                    </a>
-                </li>
-                <li>
-                    <a href="../cuisine/" style="background-color: gray;">
-                        Cuisine
-                    </a>
-                </li>
-                <li>
-                    <a href="../nutrition/" style="background-color: gray;">
-                        Nutrition
-                    </a>
-                </li>
-            </ul>
-        </div>
-    </div>
-</div>
+@section('content')
 <div class="content" >
 	<div class="main">
 
@@ -111,3 +69,4 @@
 
 </div>
 </div>
+@endsection
